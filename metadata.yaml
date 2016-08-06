@@ -1,0 +1,34 @@
+_repo: The-Rangeland-Avenger_10601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brand, Max
+    aliases:
+    - Faust, Frederick Schiller
+    - Frederick, John
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '743'
+    url: http://www.gutenberg.org/2009/agents/743
+    wikipedia: http://en.wikipedia.org/wiki/Max_Brand
+description: And maybe I ain't. Sinclair brushed the entire argument away into a thin
+  mist of smoke. ""Now, look here, Cold Feet, I'm about to go to sleep, and when I
+  sleep, I sure sleep sound, taking it by and large. They's times when I don't more'n
+  close one eye all night, and they's times when you'd have to pull my eyes open,
+  one by one, to wake me up. Understand? I'm going to sleep the second way tonight.
+  About eight hours of the soundest sleep you ever heard tell of.""
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- GITenberg
+title: The Rangeland Avenger
+url: http://www.gutenberg.org/ebooks/10601
