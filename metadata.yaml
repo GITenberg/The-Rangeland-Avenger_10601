@@ -1,5 +1,8 @@
 _repo: The-Rangeland-Avenger_10601
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brand, Max
@@ -17,6 +20,8 @@ description: And maybe I ain't. Sinclair brushed the entire argument away into a
   close one eye all night, and they's times when you'd have to pull my eyes open,
   one by one, to wake me up. Understand? I'm going to sleep the second way tonight.
   About eight hours of the soundest sleep you ever heard tell of.""
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10601#The-Rangeland-Avenger
 gutenberg_bookshelf: Western
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
